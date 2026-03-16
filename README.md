@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Riddhik, a passionate web developer with a focus on creating intuitive and dynamic web applications. I specialize in ReactJS, Tailwind CSS, and API development to build engaging user experiences.<br><br>🔭 What I'm working on:<br>Developing a web application that allows users to join a trading community.<br>Building responsive and scalable websites with ReactJS and Tailwind CSS.<br>Working on dark/light mode functionality to enhance UI/UX.<br><br>🌱 What I’m learning:<br>Advanced API integration and data handling.<br>Enhancing my skills in full-stack development with Node.js and MongoDB.
+👋 Hi there! I'm Riddhik, a passionate web developer with a focus on creating intuitive and dynamic web applications. I specialize in ReactJS, Tailwind CSS, and API development to build engaging user experiences.<br><br>🔭 What I'm working on:<br>Developing a web application that allows users to join a trading community.<br>Building responsive and scalable websites with ReactJS and Tailwind CSS.<br>Working on dark/light mode functionality to enhance UI/UX.<br><br>🌱 What I’m learning:<br>Advanced API integration and data handling.<br>Enhancing my skills in full-stack development with Node.js and PostgreSQL.
 
 
 ## 🌐 Socials:
